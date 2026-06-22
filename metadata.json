@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Sandbox",
+  "description": "An interactive environment featuring generative Web Audio soundscapes, customizable aesthetic canvases, mood journaling, and AI-powered inspiration generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
