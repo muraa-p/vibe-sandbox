@@ -51,10 +51,10 @@ An interactive environment featuring generative Web Audio soundscapes, customiza
 ![Mood Journaling](./assets/.aistudio/placeholder-mood-journaling.png)
 
 <!-- Placeholder for audio canvas -->
-![Audio Canvas](./assets/placeholder-audio-canvas.png)
+![Audio Canvas](./assets/.aistudio/placeholder-audio-canvas.png)
 
 <!-- Placeholder for AI inspiration -->
-![AI Inspiration](./assets/placeholder-ai-inspiration.png)
+![AI Inspiration](./assets/.aistudio/placeholder-ai-inspiration.png)
 
 ## 🛠️ Tech Stack
 
