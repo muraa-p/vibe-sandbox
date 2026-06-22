@@ -44,6 +44,9 @@ An interactive environment featuring generative Web Audio soundscapes, customiza
 
 ## 📸 Screenshots
 
+<!-- Placeholder for the whole screenshots -->
+![Feature Overview](./assets/.aistudio/the-whole-website.png)
+
 <!-- Placeholder for feature screenshots -->
 ![Feature Overview](./assets/.aistudio/placeholder-feature-overview.png)
 
