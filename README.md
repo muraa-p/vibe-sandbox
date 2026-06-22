@@ -148,13 +148,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙋 Support
 
-If you encounter any issues or have questions, please open an [issue](https://github.com/muraa-p/vibe-sandbox/issues) on GitHub.
-
-## 🎉 Acknowledgments
-
-- Built with [Google Generative AI](https://ai.google.dev)
-- Inspired by interactive art and emotional wellness technology
-- Thanks to the open-source community
+If you encounter any issues or have questions, please open an [issue](https://github.com/muraa-p/vibe-sandbox/issues) on GitHub or tell me directly on muraadnagrij@gmail.com.
 
 ---
 
