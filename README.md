@@ -45,10 +45,10 @@ An interactive environment featuring generative Web Audio soundscapes, customiza
 ## 📸 Screenshots
 
 <!-- Placeholder for feature screenshots -->
-![Feature Overview](./assets/placeholder-feature-overview.png)
+![Feature Overview](./assets/.aistudio/placeholder-feature-overview.png)
 
 <!-- Placeholder for mood journaling interface -->
-![Mood Journaling](./assets/placeholder-mood-journaling.png)
+![Mood Journaling](./assets/.aistudio/placeholder-mood-journaling.png)
 
 <!-- Placeholder for audio canvas -->
 ![Audio Canvas](./assets/placeholder-audio-canvas.png)
