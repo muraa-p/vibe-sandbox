@@ -1,5 +1,7 @@
 # 🎨 Vibe Sandbox
 
+> **Live demo:** https://vibe-sandbox-nine.vercel.app
+
 An interactive environment featuring generative Web Audio soundscapes, customizable aesthetic canvases, mood journaling, and AI-powered inspiration generation.
 
 ## ✨ Features
